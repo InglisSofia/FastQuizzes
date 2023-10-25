@@ -1,37 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
 
-
-
-html {
-    height: 100%;
-}
-
 body {
     font-family: 'Oxygen', sans-serif;
-    text-align: center;
-
-}
-
-
-main {
-    width: 100%;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-image: url("../images/iStock-1455407880.jpg");
-    background-size: cover;
-}
-
-.quiz {
-    max-width: 50%;
-    height: 30%;
-    background-color: paleturquoise;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-around;
-    border-radius: 30px;
 }
 

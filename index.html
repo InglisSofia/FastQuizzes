@@ -1,28 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <link type="image/png" sizes="16x16" rel="icon" href="assets/favicon/icons8-dice-flaticons-lineal-color-16.png" />
-    <link type="image/png" sizes="32x32" rel="icon" href="assets/favicon/icons8-dice-flaticons-lineal-color-32.png" />
-    <link type="image/png" sizes="96x96" rel="icon" href="assets/favicon/icons8-dice-flaticons-lineal-color-96.png" />
-    <link rel="stylesheet" href="assets/css/style.css">
-
     <title>Fast Quizzes</title>
+    <link type="image/png" sizes="16x16" rel="icon" href="assets/favicons/icons8-dice-matisse-16.png">
+    <link type="image/png" sizes="32x32" rel="icon" href="assets/favicons/icons8-dice-matisse-32.png">
+    <link type="image/png" sizes="96x96" rel="icon" href="assets/favicons/icons8-dice-matisse-96.png">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
 
-<body onload="NewQuestion(0)">
-    <main>
-
-        <div class="quiz">
-            <h2>The New Zealand Quiz <i class="fa-solid fa-cable-car"></i></h2>
-            <p>What do you know about this awesome country?</p>
-
-
+<body>
+    <div class="container" id="form">
+        <h1>The New Zealand Quiz! <i class="fa-solid fa-cable-car"></i></h1>
+        <p>What do you know about this awesome country?</p>
+        <div id="quiz"></div>
+        <div id="result" class="result"></div>
+        <button id="next" class="button">Next Question</button>
+        <button id="again" class="button hide">One more time!</button>
+        <button id="rightAnswer" class="button hide">Show the right answers</button>
+    </div>
 
     <script src="https://kit.fontawesome.com/489d8a9ea7.js" crossorigin="anonymous"></script>
     <script src="assets/js/script.js"></script>
 </body>
+
 </html>
