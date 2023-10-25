@@ -49,7 +49,7 @@ Mobile accessibility
 Unfortunately I had problems with getting the page responsive since the testing in "Am I Responsive" show the page is a bitt off in some of the screen sizes. When I look at the inspection and choose mobile, tablet and desktop it looks as it should. This is a problem left yet to solve.
 Another thing I struggled with was the radio buttons which couldn't seem to get right. I tried many different CSS codes but nothing i found would line them up nicely to fit the choices the belong to. This also is yet to solve. 
 
-Deployment
+# Deployment
 
 - Open GitHub repository for the project.
 - At the top of the page click the Settings button.
@@ -61,7 +61,7 @@ Deployment
 
 View this project [Here](https://inglissofia.github.io/FastQuizzes/)
 
-Credits
+# Credits
 
 iStock by Getty Images, credit: Michael Xiao, picture "A foggy morning at Milford Sound"
 JavaScript: codewithfaraz.com
