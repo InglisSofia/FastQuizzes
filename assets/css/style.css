@@ -96,8 +96,8 @@ input[type='radio'] {
     }
 
 input[type='radio'] {
-    transform: none;
-    margin-left: none;
+    transform: scale(1.5);
+    margin-left: 0;
 
 }
 

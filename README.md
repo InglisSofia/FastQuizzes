@@ -1,4 +1,4 @@
-#The New Zealand Quiz
+# The New Zealand Quiz
 
 This is a 10 questions online quiz witch a New Zealand theme. 
 
@@ -22,4 +22,6 @@ The result with Option to either start the game from the beginning or view corre
 View over correct answers and a button for starting the game all over again
 
 <img width="100%" alt="Correct answers" src="https://github.com/InglisSofia/FastQuizzes/assets/143741255/4bf2f0c0-c604-491f-ab16-98c401a0b8fe">
+
+# Testing
 
