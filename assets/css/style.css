@@ -2,5 +2,14 @@
 
 body {
     font-family: 'Oxygen', sans-serif;
+    text-align: center;
+    background-image: url(../images/iStock-1455407880.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
 }
 
+.hide {
+    display: none;
+}
