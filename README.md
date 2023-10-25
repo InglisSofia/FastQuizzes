@@ -47,7 +47,7 @@ Mobile accessibility
 # Bugs and errors
 
 Unfortunately I had problems with getting the page responsive since the testing in "Am I Responsive" show the page is a bitt off in some of the screen sizes. When I look at the inspection and choose mobile, tablet and desktop it looks as it should. This is a problem left yet to solve.
-Another thing I struggled with was the radio buttons which couldn't seem to get right. I tried many different CSS codes but nothing i found would line them up nicely to fit the choices the belong to. This also is yet to solve. 
+Another thing I struggled with was the radio buttons which couldn't seem to get right. I tried many different CSS codes but nothing i found would line them up nicely to fit the choices the belong to. This also is yet to solve. Due to lack of time I had to submit this project in a unfinished condition.
 
 # Deployment
 
