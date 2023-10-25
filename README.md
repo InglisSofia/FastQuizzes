@@ -33,10 +33,10 @@ CSS. 1 error found: input type="radio", transform: none; margin-left: none;
 CSS. No errors found after correcting error. New code, transform: scale (1.5); margin-left: 0;
 
 Desktop accessibility
-<img width="170%" alt="Desktop Accessibility" src="https://github.com/InglisSofia/FastQuizzes/assets/143741255/01fc83d7-c12f-4146-b429-64284ea816e3">
+<img width="100%" alt="Desktop Accessibility" src="https://github.com/InglisSofia/FastQuizzes/assets/143741255/01fc83d7-c12f-4146-b429-64284ea816e3">
 
 Mobile accessibility
-<img width="191" alt="Mobile Accessibility" src="https://github.com/InglisSofia/FastQuizzes/assets/143741255/56f7f5bb-bb08-4a2d-a64d-dc9e542acedf">
+<img width="100%" alt="Mobile Accessibility" src="https://github.com/InglisSofia/FastQuizzes/assets/143741255/56f7f5bb-bb08-4a2d-a64d-dc9e542acedf">
 
 Deployment
 
